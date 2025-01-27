@@ -37,5 +37,4 @@ This C++ code demonstrates how to manipulate a process's memory by reading and w
 - The overall purpose of this code is to demonstrate how to interact with a running process's memory in a Windows environment, which can be used for cheating in games or other memory manipulation tasks. The specific example here shows how to read and change the health value of a game process.
   
 ### Notes:
-- This code requires proper permissions and can be flagged as malicious if used improperly. It should be used ethically and with caution.
 - The memory address offsets and process ID are hardcoded, and in a real-world scenario, these would need to be dynamically determined.
