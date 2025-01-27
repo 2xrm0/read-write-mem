@@ -1,0 +1,3 @@
+﻿  mem editer.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\kemow\Desktop\Kareem Own sources\Mem Eidtor\mem editer\x64\Debug\mem editer.exe : fatal error LNK1120: 1 unresolved externals
